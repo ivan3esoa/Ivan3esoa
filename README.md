@@ -1,7 +1,11 @@
-### soy otaku 
-rezo a itachi dios 
-levi uwu
-naruto> todo anime
+# hola soy ivan
+
+estudio computacion en el instituto
+
+- python
+- github
+ -atom
+- trello
 <!--
 **ivan3esoa/Ivan3esoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
